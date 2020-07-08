@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html, body {
+    height: 100%;
+  }
+  body {
+    font: 12px 'Open Sans', sans-serif;
+    color: #212121;
+    background:#242424;
+    overflow-x: hidden;
+  }
+.bann {
+    background-color: #AAD6E3;
+    text-align: center;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+}
+.zoom {
+    -webkit-transition: all 0.3s ease; 
+    -moz-transition: all 0.3s ease; 
+    -ms-transition: all 0.3s ease; 
+    -o-transition: all 0.3s ease; 
+    transition: all 0.3s ease;
+    }
+.zoom:hover{
+    -webkit-transform:scale(1.06); 
+    -moz-transform:scale(1.06); 
+    -ms-transform:scale(1.06); 
+    -o-transform:scale(1.06); 
+    transform:scale(1.06);
+    }
+    img {
+        max-width: 100%;
+    }
+.back1 {
+    background: url("http://i.imgur.com/RMSeiy8.jpg") no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    margin-top:1px;
+    height: 800px;
+}
+.back2 {
+    background: url("https://i.imgur.com/FjtrpBT.jpg") no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    margin-top:1px;
+    height: 800px;
+}
+.back3 {
+    background: url("https://i.ytimg.com/vi/rBEbJ2B4MlA/maxresdefault.jpg") no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    margin-top:1px;
+    height: 800px;
+}
+.back4 {
+    background: url("https://i.imgur.com/bM6Khd6.png") no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    margin-top:1px;
+    height: 800px;
+}
+p {
+    font-size: 38px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+#t1 {
+    color: black;
+}
+
+    
+
+    

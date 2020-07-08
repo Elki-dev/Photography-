@@ -1,0 +1,33 @@
+.bouton 
+{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 20px;
+  width: 510px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.bouton1
+{
+    background-color: #959595;
+  color: #1D1D1D;
+  border: 2px solid #555555;
+  border-radius: 50px;
+}
+.bouton1:hover
+{
+    background-color: #292B2B;
+  color: white;
+}  
+
+
+
+    
+    
